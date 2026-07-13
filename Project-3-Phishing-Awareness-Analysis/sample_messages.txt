@@ -1,0 +1,43 @@
+SAMPLE 1: LEGITIMATE PROJECT UPDATE
+-----------------------------------
+
+Sender: sarah.lee@company.com
+Reply-To: sarah.lee@company.com
+Subject: Q3 Project Status Update
+
+Hi Team,
+
+Please review the project update when convenient.
+
+Attachment: Q3_Status.pdf
+
+
+SAMPLE 2: SUSPICIOUS PASSWORD RESET
+-----------------------------------
+
+Sender: support@microsoft-security-alert.com
+Reply-To: verify@account-services.com
+Subject: URGENT: Password expires within 24 hours
+
+Dear user,
+
+Verify your account immediately.
+
+Click here and sign in:
+http://microsoft.secure-login-update.example.com
+
+
+SAMPLE 3: MALICIOUS EXECUTIVE PAYMENT REQUEST
+---------------------------------------------
+
+Sender: ceo.office@executive-update.com
+Reply-To: transfer@fast-payments.com
+Subject: IMMEDIATE ACTION: Wire Transfer
+
+This is strictly confidential.
+
+Do not tell anyone.
+
+Bypass procedure and complete the wire transfer immediately.
+
+Attachment: Payment_Instructions.iso
